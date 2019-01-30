@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AirtelDemo</string>
+    <string name="airtel">Airtel</string>
+    <string name="welcome_to_airtel">Welcome to Airtel</string>
+    <string name="search_for_a_problem">Search for a problem</string>
+    <string name="recent_issues">Recent Issues</string>
+    <string name="view_all_options">View All Options</string>
+    <string name="call_customer_care">Call Customer Care</string>
+    <string name="favorite">Favorite</string>
+    <string name="retry">Retry</string>
+</resources>
